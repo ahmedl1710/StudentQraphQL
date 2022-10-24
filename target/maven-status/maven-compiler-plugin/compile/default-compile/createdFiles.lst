@@ -1,0 +1,4 @@
+esprit\tn\soa\entity\Student.class
+esprit\tn\soa\grapgql\Query.class
+esprit\tn\soa\repository\StudentRepository.class
+esprit\tn\soa\grapgql\GraphQLEndpoint.class

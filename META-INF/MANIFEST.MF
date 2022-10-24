@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GrapheQL
+Bundle-SymbolicName: GrapheQL
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: GrapheQL
+Export-Package: esprit.tn.soa.entity,
+ esprit.tn.soa.grapgql,
+ esprit.tn.soa.repository

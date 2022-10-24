@@ -1,0 +1,15 @@
+type Student{
+    cin: String!
+    nombre: String!
+    email: String!
+}
+
+type Query{
+    allStudents: [Student]
+    searchStudById(id: String!): Student
+
+}
+ 
+schema {
+    query: Query
+    }
